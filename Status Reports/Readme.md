@@ -31,8 +31,8 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Document | Description | Document Name |
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
-| Week 1 Status Report | | | 
-| Week 2 Status Report | | |
+| Week 1 Status Report | Add cf-operator-base docker image, update fissile stemcell, update fissile s390x and solution for MariaDB on s390x | Week 1 Status Report | 
+| Week 2 Status Report | Docker images for cf-operator and diego | Week 2 Status Report |
 | Week 3 Status Report | | |
 | Week 4 Status Report | | |
 | Week 5 Status Report | | |
